@@ -8,6 +8,8 @@ Integrate OAuth instead of managing user names and passwords internally.
 ### Routes :
 
 Main Page -- > https://google-open-auth.herokuapp.com/authPage
+
+
 Login Page -- > https://google-open-auth.herokuapp.com/login
 
 
