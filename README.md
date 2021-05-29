@@ -1,7 +1,15 @@
 
 # Google OAuth App
 
+Integrate OAuth instead of managing user names and passwords internally.
+
 ## [ => Deployed App <= ](https://google-open-auth.herokuapp.com/authPage)
+
+### Routes :
+
+Main Page -- > https://google-open-auth.herokuapp.com/authPage
+Login Page -- > https://google-open-auth.herokuapp.com/login
+
 
 ### Dependencies :
 
@@ -22,5 +30,7 @@
     "morgan": "^1.10.0",
     "superagent": "^6.1.0",
 ```
+
+## UML Diagram
 
 ![googleOAuth](https://user-images.githubusercontent.com/78326110/120075029-52bba500-c0a8-11eb-8674-531d5d22e6e3.jpg)
