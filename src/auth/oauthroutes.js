@@ -14,7 +14,7 @@ app.use(express.json());
 
 // Google Auth
 const { OAuth2Client } = require('google-auth-library');
-const CLIENT_ID = process.env.CLIENT_ID;
+const CLIENT_ID = "256986904378-ror1tsk6omr1a2hiq88nf2m5nmof588q.apps.googleusercontent.com";
 const client = new OAuth2Client(CLIENT_ID);
 
 
